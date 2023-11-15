@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Advanced Decision Tree Optimization in Spark ML for <font color="red">Breast Cancer Analysis</font></h1> 
+<h1 align="center">Advanced Decision Tree Optimization in Spark ML for Breast Cancer Analysis</h1>
 
 ## Overview
 This README documents the project "Advanced Decision Tree Optimization in Spark ML for Breast Cancer Analysis" by Sai Sanwariya Narayan. The project focuses on optimizing decision trees using Spark ML to analyze breast cancer data. Key components include data loading and setup, feature transformation, decision tree learning, evaluation, visualization, and hyperparameter tuning.
